@@ -11,6 +11,7 @@ setup(
     description="DRF Deleterious: A simple mixin package for Django REST Framework which adds Deleting Multiple requested entities in a single DELETE request",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
+    url="https://github.com/Gautam-Diwan/drf-deleterious",
     license="MIT",
     classifiers=[
         'License :: OSI Approved :: MIT License',
